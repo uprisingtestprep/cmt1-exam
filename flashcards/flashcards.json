@@ -1,0 +1,2502 @@
+[
+ {
+  "domain": "theory_and_history",
+  "front": "Which two stock averages did Dow Jones publish in the 1800s that Dow used in his analysis?",
+  "back": "The Dow Jones Industrial Average (first published in 1896) and the Dow Jones Transportation Average, which was once called the Railroad Average."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why did Dow think the industrial and transportation averages were both needed?",
+  "back": "Industrial firms make goods and transportation firms ship them. A healthy economy should lift both, so one average alone gives an incomplete picture."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who founded Dow Jones and Company with Charles Dow in 1882?",
+  "back": "Edward Jones. The firm began publishing The Wall Street Journal in 1889, with Dow as its editor."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What was Charles Dow's main way of sharing his market ideas?",
+  "back": "Editorials in The Wall Street Journal. He never wrote a book stating a finished theory; others collected and organized his ideas after his death in 1902."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who succeeded Dow as editor of The Wall Street Journal and wrote The Stock Market Barometer in 1922?",
+  "back": "William Peter Hamilton. His book presented the theory to a wide audience."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which author organized the tenets of Dow Theory in the 1932 book The Dow Theory?",
+  "back": "Robert Rhea. His book set out the ideas in the clear form still taught today."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who is credited with first using the phrase Dow's Theory in The ABC of Stock Speculation (1903)?",
+  "back": "S. A. Nelson, a financial writer who published that book a year after Dow died."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which later technician is linked with the mid twentieth century revival of interest in Dow Theory?",
+  "back": "E. George Schaefer, who refined how the theory was applied."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name the principal individuals who created and organized Dow Theory.",
+  "back": "Charles Dow as originator, William Hamilton and Robert Rhea as the main organizers, with S. A. Nelson and E. George Schaefer also contributing."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What did Joseph de la Vega describe in his 1688 book Confusion de Confusiones?",
+  "back": "The trading of shares in Amsterdam, including how traders behaved. It is an early record of crowd behavior in a securities market."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which Asian market is linked with the roots of candlestick charting?",
+  "back": "Japanese rice trading, especially the Dojima rice market in Osaka, with the trader Munehisa Homma of Sakata most often named."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who brought Japanese candlestick charting to Western traders in the early 1990s?",
+  "back": "Steve Nison, through his writing on candlestick techniques."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What are the first two early markets a CMT candidate should link to charted prices?",
+  "back": "Seventeenth century Amsterdam share trading and eighteenth century Japanese rice trading in Osaka."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "State the first Dow Theory tenet about what the averages reflect.",
+  "back": "The averages discount everything. Known information, expectations and even unforeseen events are quickly absorbed into prices."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A trader tries to forecast news before studying the averages. Which Dow tenet suggests this is unnecessary?",
+  "back": "The averages discount everything. Prices already contain what informed participants know and expect, so the technician studies the averages themselves."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "According to Dow Theory, which price of the day is the most important?",
+  "back": "The closing price. It is where buyers and sellers finally settled, and it is less affected by short lived intraday swings."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A Dow technician sees an intraday spike above a prior high but the close stays below it. How is the move treated?",
+  "back": "It is not a signal, because Dow Theory bases signals on closing prices, not intraday extremes."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does confirmation mean in Dow Theory?",
+  "back": "A signal from one average is accepted only when the other average gives a matching signal, such as both closing above earlier important highs."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "The Industrial Average closes above its prior high of 2,400. The Transportation Average closes above its prior high of 960 a week later. What do these two events show?",
+  "back": "Confirmation of the bull trend, because both averages moved through earlier peaks and agreed."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is non-confirmation or divergence in Dow Theory?",
+  "back": "One average makes a new high or low while the other fails to do the same. It is a warning that the move may not be reliable."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "The Industrial Average reaches 2,450, a new high, while the Transportation Average stays at 940 below its high of 960. What does a Dow technician conclude?",
+  "back": "The advance is unconfirmed and should be treated with caution. It is a warning, not a guaranteed reversal."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Is non-confirmation by itself a sell signal?",
+  "back": "No. It is a caution flag. It becomes serious if followed by a drop below an earlier important low in one or both averages."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What role does volume play in Dow Theory?",
+  "back": "It supports or questions the signals given by the averages. In a healthy trend volume expands in the direction of the trend."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "In a healthy Dow uptrend, how should volume behave on advances and on dips?",
+  "back": "Volume should rise as prices advance and shrink as prices dip."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which Dow tenet says a trend should be assumed to continue until what?",
+  "back": "Until a definite reversal signal appears. Small counter moves are treated as noise, so the analyst avoids calling a trend over too early."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name Dow's three primary price movements.",
+  "back": "The primary trend (tide), the secondary trend (waves) and the minor trend (ripples)."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What sea image describes the primary trend, and how long does it normally last?",
+  "back": "The tide. A primary trend normally lasts more than one year and can run for several years."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What sea image describes the secondary trend, and what is its typical duration?",
+  "back": "Waves. Secondary trends commonly last from about three weeks to three months."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What sea image describes the minor trend, and how long does it last?",
+  "back": "Ripples. Minor trends typically last less than about three weeks."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which of Dow's three movements did he regard as the least reliable for reading the main trend?",
+  "back": "The minor trend, the short daily fluctuations, which he treated as mostly noise."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a secondary trend in relation to the primary trend?",
+  "back": "A corrective move against the primary trend: a decline within a bull market or a rally within a bear market."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How much of the prior primary move does a secondary trend commonly retrace?",
+  "back": "Between about one third and two thirds, with many technicians watching the one half level."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An index rises from 1,000 to 1,300. How low does a retracement of one third take it?",
+  "back": "The gain is 300 points. One third is 100 points, so the index falls to 1,200."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An index rises from 1,000 to 1,300 in a primary uptrend. Where does a two thirds retracement leave it?",
+  "back": "Two thirds of 300 points is 200 points, so the index falls to 1,100."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An index climbs from 1,000 to 1,300 and then falls to 1,150. What fraction of the advance did it give back?",
+  "back": "It gave back 150 of 300 points, which is exactly one half."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An uptrend has lasted 18 months, and a drop lasting about two months retraces half of the gain. How is the drop classified?",
+  "back": "A secondary trend, because its length is between three weeks and three months and it corrects part of the primary move."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A market has risen steadily for two years. Which Dow movement does this describe?",
+  "back": "A primary trend, because it lasts more than one year."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why can the three Dow movements be called nested?",
+  "back": "All three operate at the same time: minor ripples sit inside secondary waves, which sit inside the primary tide."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How many phases does Dow Theory assign to a primary bull market, and what are they?",
+  "back": "Three: accumulation, public participation, and excess or distribution."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who is buying during the accumulation phase of a bull market?",
+  "back": "Informed and patient investors, buying after a long decline while most of the public is still gloomy and news is poor."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which phase of a bull market is usually the longest and shows the largest price gain?",
+  "back": "The public participation phase, when trend followers join in, business news improves and prices advance steadily."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What marks the excess or distribution phase of a bull market?",
+  "back": "Public optimism and heavy speculation, while early informed buyers begin selling their positions to late buyers."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What happens in the first phase of a bear market?",
+  "back": "Distribution: informed sellers quietly leave and prices begin to slip from a peak."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Describe the last phase of a bear market.",
+  "back": "Panic and despair, with prices pushed down by forced selling. Informed buyers near the bottom start the next accumulation."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Prices have stopped falling after a long decline, volume is modest and sentiment is poor. Which phase is likely under way?",
+  "back": "The accumulation phase of a new bull market, when informed investors begin buying."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "News stories tell of easy profits, newcomers are buying heavily, and informed holders are quietly selling. Which phase is this?",
+  "back": "The excess or distribution phase at the end of a bull market."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How do Dow phases link to behavioral finance?",
+  "back": "They describe a shift in who is trading: first the informed few, then the trend following crowd, then the late public."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "State the Dow tenet about volume and trends.",
+  "back": "Volume must confirm the trend by expanding in the direction of the trend. Volume is secondary to the averages."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the difference between volume confirmation and Dow confirmation between averages?",
+  "back": "Dow confirmation is agreement between the Industrial and Transportation averages. Volume confirmation is volume expanding with the direction of the trend."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does Rhea's version of Dow Theory say about lines?",
+  "back": "A line is a narrow sideways range lasting a few weeks. A breakout from it can take the place of a secondary reaction. Not all authors agree on this."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "List the seven Dow tenets covered in this chapter in short form.",
+  "back": "Averages discount everything; three trends; three phases; averages must confirm; volume confirms; a trend persists until a definite reversal; closing prices matter most."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why are Dow Theory signals described as slow?",
+  "back": "The theory waits for confirmation and a definite reversal, so signals come well after a trend begins and part of a move may be missed."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why is Dow Theory considered partly subjective?",
+  "back": "Judgments such as what counts as an important prior high, how long confirmation may take, and whether a range is a line differ between analysts."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why is Dow Theory poorly suited to short term trading?",
+  "back": "It targets primary trends, so it produces few signals over a long period."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name two strengths of Dow Theory.",
+  "back": "It gives a clear framework for the main trend direction, and its confirmation rule adds a check that can reduce false signals."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does the Dow Theory framework give later trend analysis?",
+  "back": "The ideas of retracement and trend stages. Its three movements and three phases remain the basis for later work."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which year did The Wall Street Journal begin publication, and who edited it?",
+  "back": "1889, with Charles Dow as editor."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "In which year was the Dow Jones Industrial Average first published?",
+  "back": "1896."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A question lists the Industrial Average at a new closing high and the Transportation Average below its prior high. Which Dow term applies?",
+  "back": "Non-confirmation, also called divergence."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "In a bear market, when is the downtrend confirmed under Dow Theory?",
+  "back": "When both averages close below earlier important lows. A bearish signal in only one average is not accepted as a full signal."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why can a technician apply the same tools to stocks, bonds, currencies and bitcoin?",
+  "back": "Technical analysis studies price and volume records, not the nature of the instrument. Any instrument that produces a record of trades can be charted."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What are equities, and what daily data do they usually provide?",
+  "back": "Equities are shares of ownership in a company. They trade on exchanges and give open, high, low, close and volume figures each day."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How do bond prices move relative to yields, and why do technicians often chart yields or bond futures?",
+  "back": "Bond prices move opposite to yields. Many bonds trade over the counter with thin or missing volume data, so yields or bond futures are often charted instead."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a futures contract?",
+  "back": "A standardized contract to buy or sell an asset at a set price on a future date. Futures trade on exchanges and report both volume and open interest."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is open interest in a futures market?",
+  "back": "The number of futures contracts that are still outstanding, meaning not yet closed or delivered."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why is there no single volume figure for the currency market?",
+  "back": "Foreign exchange is decentralized, with trading spread among dealers and brokers. Data comes from those sources rather than one exchange."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is an exchange-traded fund (ETF), and why is it handy for a technician?",
+  "back": "A fund whose shares trade like a stock. It gives one chart for a whole index, sector, commodity or bond market."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How does a technician mostly use options data?",
+  "back": "Mostly for sentiment and volatility measurement, rather than charting the option price itself."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why does the choice of data source matter for digital assets such as bitcoin?",
+  "back": "They trade around the clock on many venues, and prices can differ slightly between venues."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does liquidity mean for chart analysis?",
+  "back": "A liquid market lets you buy or sell a meaningful size without moving the price much, so chart signals reflect real supply and demand."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A stock trades only a few hundred shares a day and spikes 8% on one order, then falls back. What is the lesson?",
+  "back": "In a thin market a single order can create a spike that looks like a breakout but only reflects a lack of buyers or sellers."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does free price discovery require?",
+  "back": "Prices should come from the open interaction of buyers and sellers. Where prices are fixed or capped, charts show the control rather than supply and demand."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why does technical analysis need many market participants?",
+  "back": "Many independent participants create the crowd behavior that chart patterns measure. A market with a handful of traders can be dominated by one person."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "List the four market characteristics the curriculum says support technical analysis.",
+  "back": "Liquidity, free price discovery, enough participants, and reliable data."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why do unadjusted charts mislead after a stock split?",
+  "back": "The share price falls without any loss of value. A 2 for 1 split from 100 to 50 appears as a 50% drop that no shareholder suffered."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How is a price series adjusted for a 2 for 1 stock split?",
+  "back": "All earlier prices are divided by 2, so a close of 100 before the split reads 50 and the line stays smooth."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why are dividends also adjusted in some price series?",
+  "back": "Earlier prices are reduced by the amount of the payout so that the series reflects total return."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "When is unadjusted price data preferable to adjusted data?",
+  "back": "When studying prices that actually traded, such as round numbers and past support levels. Adjusted data suits trend and return studies."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a bad tick, and what harm can it do?",
+  "back": "A single recorded price far outside the day's real range. It can distort an indicator for many periods."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is survivorship bias in a trading rule test?",
+  "back": "Using only companies that exist today leaves out those that failed or were removed, so results look better than real investors experienced."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does data interval mean, and how does the choice affect a chart?",
+  "back": "It is the time each bar represents. Short intervals show more detail and noise, long intervals smooth noise but hide short moves."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why must a continuous futures series be handled with care?",
+  "back": "It links expiring contracts to new ones, and the price difference at the switch can appear as an artificial gap. Vendors handle the switch differently."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who developed and popularized the Efficient Markets Hypothesis in a 1970 review?",
+  "back": "Eugene Fama."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "State the Efficient Markets Hypothesis.",
+  "back": "Current prices fully reflect available information, so no one can consistently earn excess risk adjusted returns using that information."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a commonly accepted implication of the EMH about price changes?",
+  "back": "Prices change only when new information arrives, and because news is unpredictable, price changes are unpredictable."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does the EMH imply about active management after costs?",
+  "back": "Active management should not beat a passive index fund, apart from luck."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What information does the weak form of the EMH say is already in prices?",
+  "back": "All past market data, meaning past prices and volume."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which form of the EMH directly challenges technical analysis?",
+  "back": "The weak form, because if past prices and volume are already absorbed, charts contain nothing new."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does the semi-strong form of the EMH assume?",
+  "back": "Prices reflect all public information, including prices, financial statements, news and analyst reports. Both technical and fundamental analysis would fail."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does the strong form of the EMH assume?",
+  "back": "Prices reflect all information, public and private, so even insiders could not earn excess returns."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which form of the EMH is the largest claim, and which is the smallest?",
+  "back": "The strong form is the largest claim and the weak form is the smallest. Each form includes the one before it."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why do few academics believe in the strong form?",
+  "back": "Insider trading laws exist because insiders with confidential information can profit, which contradicts the claim."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the joint hypothesis problem?",
+  "back": "Any test of the EMH also requires a model of expected returns. If abnormal returns appear, either the market is inefficient or the model is wrong, and you cannot tell which."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why can the EMH never be fully proven or disproven?",
+  "back": "Because of the joint hypothesis problem: every test checks market efficiency and the pricing model together."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What kind of test is linked to the weak form in the traditional three part scheme?",
+  "back": "Tests of whether past returns can predict future returns."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What do event studies measure?",
+  "back": "How quickly prices adjust to public announcements such as earnings or stock splits. They are linked to the semi-strong form."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What do tests of the strong form look for?",
+  "back": "Private information, such as returns earned by corporate insiders or professional fund managers."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What revision did Fama suggest in 1991 for the weak form tests?",
+  "back": "He renamed them tests for return predictability, allowing forecasting variables beyond past prices, such as dividend yields and interest rates."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What name did Fama give the strong form tests in his revision?",
+  "back": "Tests for private information."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "In Fama's revision, which category keeps the name event studies?",
+  "back": "The semi-strong form tests."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is an anomaly in the context of the EMH?",
+  "back": "A pattern in returns that the EMH and its pricing models cannot explain."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the momentum anomaly?",
+  "back": "Stocks that have risen over recent months tend to keep outperforming for a time, and recent losers keep lagging."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which form of the EMH does momentum contradict, and why?",
+  "back": "The weak form, because past prices help predict future prices."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the January effect?",
+  "back": "Small stocks in particular have historically tended to earn higher returns in January than in other months."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What are the value and size effects?",
+  "back": "Low priced relative to earnings or book value stocks, and smaller company stocks, have historically earned higher average returns than the models predicted."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How do defenders of the EMH respond to anomalies?",
+  "back": "They say anomalies may be compensation for risk the model missed, or that they fade once widely known and traded."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does behavioral finance claim that challenges the EMH?",
+  "back": "Investors are not fully rational. Biases such as overconfidence and herding push prices from fair value, and the errors can last."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who proposed the Adaptive Markets Hypothesis, and what does it say?",
+  "back": "Andrew Lo. Markets behave like an ecosystem where efficiency rises and falls as participants learn and adapt, so a strategy can work and then stop working."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does the Fractal Markets Hypothesis say makes a market stable?",
+  "back": "Many investors with different time horizons trading together, because each group provides liquidity for the others."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "According to the Fractal Markets Hypothesis, what triggers a crash?",
+  "back": "Everyone shifting to the same short time horizon, which removes the liquidity providers."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name three alternatives or challenges to the EMH discussed in this chapter.",
+  "back": "Behavioral finance, the Adaptive Markets Hypothesis, and the Fractal Markets Hypothesis."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a random walk in price analysis?",
+  "back": "A price series in which each change is independent of earlier changes, so past moves tell you nothing about the next move."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "In a random walk, what is the best forecast of tomorrow's price?",
+  "back": "Today's price, plus a small average drift."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a martingale?",
+  "back": "A process in which the expected next price, given everything known so far, equals the current price. The game is fair."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How does a martingale differ from a random walk?",
+  "back": "A martingale only requires a zero expected change given the past, not independent changes. Volatility can follow patterns in a martingale."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Is every driftless random walk a martingale?",
+  "back": "Yes, but not every martingale is a random walk."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does the arcsine law predict for a random walk?",
+  "back": "The fraction of time spent on one side of the starting level is most likely near zero or one, not near one half. Long one sided stretches are common."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why does the arcsine law matter to a technician and to critics?",
+  "back": "Random data can produce apparent trends and long runs, so a trend on a chart is not proof of a non random market."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Does randomness predict that prices oscillate evenly around a level?",
+  "back": "No. Randomness only says the next move cannot be forecast from past moves, and a random series can look like it has trends."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How is the Fibonacci sequence constructed?",
+  "back": "It starts 0, 1, and each new number is the sum of the two before it: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the value of the Golden Ratio to three decimal places?",
+  "back": "1.618, with the reciprocal 0.618."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How does the Golden Ratio relate to the Fibonacci sequence?",
+  "back": "Dividing any Fibonacci number by the one before it approaches 1.618 as the numbers grow, for example 89 divided by 55 is 1.618."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Where do the ratios 0.618, 0.382 and 0.236 come from in the sequence?",
+  "back": "0.618 is a number divided by the next one (55/89), 0.382 by the number two places higher (34/89), and 0.236 by the number three places higher (21/89)."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Is the 50% retracement derived from the Fibonacci sequence?",
+  "back": "No. It is a common halfway retracement with roots in Dow Theory, but it is not a Fibonacci ratio."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the 0.786 retracement ratio?",
+  "back": "The square root of 0.618."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A stock rises from a swing low of 100 to a swing high of 150. Where is the 38.2% retracement?",
+  "back": "The range is 50 and 50 x 0.382 = 19.1, so the level is 150 minus 19.1 = 130.9."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A stock rises from 100 to 150. Where is the 61.8% retracement?",
+  "back": "50 x 0.618 = 30.9, so the level is 150 minus 30.9 = 119.1."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A stock falls from 150 to 100. Where is the 23.6% retracement of that decline?",
+  "back": "50 x 0.236 = 11.8, measured upward from the swing low: 100 + 11.8 = 111.8."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a 161.8% Fibonacci extension, and how is it computed for a rise from 100 to 150?",
+  "back": "A projected target beyond the prior swing. Measured up from the swing low: 100 + (50 x 1.618) = 180.9."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does a retracement beyond the 61.8% level suggest to many analysts, and why do Fibonacci levels have limits?",
+  "back": "Many analysts see it as a sign the trend is weakening. The levels are judgment based because swing points vary, so they work best with other evidence like prior support."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name the two assumptions of traditional economic research that the CMT outline asks you to identify.",
+  "back": "Investors are rational, and they maximize utility (expected satisfaction). Behavioral finance questions both assumptions."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is expected utility theory?",
+  "back": "It assumes a rational person picks the option with the highest probability weighted satisfaction. Prospect theory was built to explain why real choices often differ."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What field studies how psychology affects financial decisions and prices?",
+  "back": "Behavioral finance. It holds that people are predictably imperfect, using mental shortcuts and emotion, rather than irrational or foolish."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Who published prospect theory, and in what year?",
+  "back": "Daniel Kahneman and Amos Tversky, in 1979. Kahneman received the 2002 Nobel Prize in economics for this line of work."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Into which two broad groups does behavioral finance sort investor mistakes?",
+  "back": "Cognitive errors (faulty reasoning or information handling) and emotional biases (faulty feeling, such as fear or pride)."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the reference point in prospect theory?",
+  "back": "The benchmark, often the purchase price, against which outcomes are judged as gains or losses. Changing it changes how the same price feels."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A stock bought at 50 now trades at 40. In prospect theory terms, how does the investor view it?",
+  "back": "As a loss of 10 relative to the reference point of 50, regardless of total wealth. Outcomes are judged as changes from the reference point."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Describe the shape of the prospect theory value function.",
+  "back": "An S shape drawn over gains and losses: concave for gains, convex for losses, and steeper on the loss side."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is diminishing sensitivity?",
+  "back": "The first unit of gain or loss matters more than later units. The 100th dollar of gain pleases less than the first."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "According to prospect theory, how do people behave when choosing among gains versus among losses?",
+  "back": "Risk averse among gains and risk seeking among losses. They take a sure gain but gamble to avoid a sure loss."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Offered a sure 500 gain or a coin flip for 1,000 or nothing, what does prospect theory predict most people choose?",
+  "back": "The sure 500. This shows risk aversion in the gain region, since both options have the same expected value of 500."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What does probability weighting mean?",
+  "back": "People do not treat probabilities at face value. They overweight very small probabilities and underweight moderate to high ones."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which prospect theory idea helps explain lottery ticket buying and insurance purchases?",
+  "back": "Overweighting of very small probabilities. A tiny chance of a big outcome feels larger than its true likelihood."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is framing?",
+  "back": "Making a different decision depending on how identical facts are described. The wording shifts the reference point and so the feeling of gain or loss."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A fund is described as keeping 90 percent of capital in down years versus losing 10 percent. Which bias does the difference in appeal show?",
+  "back": "Framing. The facts are identical, but the description changes the decision."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Define loss aversion.",
+  "back": "The pain of a loss is felt more strongly than the pleasure of an equal gain, often cited as roughly twice as strong. The ratio varies by person."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Where does loss aversion appear in the prospect theory value function?",
+  "back": "In the steeper slope on the loss side, which lies below the reference point."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the disposition effect?",
+  "back": "The tendency to sell winning positions too early and hold losing positions too long. Its root cause is loss aversion."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An investor holds one stock up 20 percent and one down 20 percent, sells the winner, and keeps the loser hoping to break even. Which bias is this?",
+  "back": "The disposition effect. Selling the loser would make the loss real, so it is avoided."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How does the disposition effect conflict with a technician's rule?",
+  "back": "Technicians say cut losses and let profits run. The disposition effect does the reverse, cutting profits short and letting losses grow."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is mental accounting?",
+  "back": "Treating money differently by source or label even though money is interchangeable, such as holding low yield savings while carrying a 20 percent credit card balance."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "In which two bias families does the chapter place mental accounting?",
+  "back": "It appears with loss aversion related behaviors and in the information processing biases, so expect it in either place."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the house money effect?",
+  "back": "Taking more risk with recent winnings because they feel like the casino's money, not your own. Gains are treated casually while losses are felt sharply."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How can regret influence investment decisions?",
+  "back": "It leads people to avoid actions that could cause regret, such as selling a loser, and can push them to follow the crowd."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is belief perseverance?",
+  "back": "Clinging to an existing belief after the evidence has turned against it. The biases in this group are cognitive errors."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name the five belief perseverance biases in the CMT outline.",
+  "back": "Conservatism, confirmation, representativeness, illusion of control, and hindsight."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is conservatism bias?",
+  "back": "Failing to update a belief enough when new information arrives, so the old view acts as an anchor on the mind."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An analyst forecast earnings of 2.00, then learns news justifying 1.60 but revises only to 1.95. Which bias is this?",
+  "back": "Conservatism. The revision is too small for the new information."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is confirmation bias?",
+  "back": "Seeking, noticing, and remembering information that supports an existing belief while discounting information that contradicts it."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A trader long a stock reads only bullish articles and calls a break below support a shakeout. Which bias is shown?",
+  "back": "Confirmation bias. Contradicting evidence is explained away."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is representativeness?",
+  "back": "Judging something by how closely it resembles a familiar category while ignoring base rates, such as assuming a fast grower will keep growing."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the illusion of control?",
+  "back": "Believing you can influence outcomes that you cannot. It tends to increase trading activity and position size."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is hindsight bias?",
+  "back": "After an event, believing it was predictable and that you knew it all along. It distorts learning and can feed overconfidence."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "After a market drop, people say the warning signs were obvious. Which bias is this?",
+  "back": "Hindsight bias. The outcome makes the past seem easier to predict than it was."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the difference between belief perseverance and information processing biases?",
+  "back": "Belief perseverance means clinging to an old view despite new evidence. Information processing biases mean using or weighing information in a flawed way."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name the four information processing biases in the CMT outline.",
+  "back": "Anchoring and adjustment, mental accounting, framing, and availability."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is anchoring and adjustment?",
+  "back": "Relying too heavily on one number, often the first received, and then adjusting from it too little."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "An investor paid 80 for a stock now at 55 and will sell only when it returns to 80. Which bias is this?",
+  "back": "Anchoring. The purchase price controls the decision although it says nothing about future price."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How can anchoring help explain support and resistance?",
+  "back": "Many holders anchor on the same prices, such as a purchase price they hoped to get back to, so selling gathers there and creates resistance."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the availability bias?",
+  "back": "Judging the likelihood of an event by how easily examples come to mind, so recent, vivid, or heavily reported events are overweighted."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "After weeks of crash coverage, investors rate the odds of another crash far above the historical record. Which bias is this?",
+  "back": "Availability. Vivid recent events inflate perceived probability."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What defines an emotional bias?",
+  "back": "A bias arising from impulse, feeling, or personal circumstances rather than from faulty reasoning."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Name six emotional biases from the chapter.",
+  "back": "Loss aversion, overconfidence, self control bias, status quo bias, endowment effect, and regret aversion."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is overconfidence?",
+  "back": "Overestimating your own knowledge, skill, or forecast accuracy. It leads to excessive trading, too few positions, and underestimated risk."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is self control bias?",
+  "back": "Favoring immediate satisfaction over long term goals, such as spending now instead of saving or chasing high current income."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is status quo bias?",
+  "back": "A preference for leaving things as they are, such as never rebalancing an inherited portfolio, because change feels uncomfortable."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is the endowment effect?",
+  "back": "Valuing something more simply because you own it, so an owner may refuse a fair price for a holding."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is regret aversion?",
+  "back": "Avoiding a decision to dodge the pain of being wrong. It can cause excess caution after a loss or herding with the crowd."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why are emotional biases harder to correct than cognitive errors?",
+  "back": "They come from feelings that remain even when the facts are understood, so education alone does not remove them."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How are cognitive errors usually dealt with, compared with emotional biases?",
+  "back": "Cognitive errors can often be reduced by education and better process. Emotional biases usually must be accommodated with rules and limits."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What kind of protection helps with emotional biases?",
+  "back": "Rules that do not depend on mood, such as position limits, predefined exits, and automatic orders."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is herding?",
+  "back": "Following what the crowd does instead of acting on your own analysis, driven by comfort, regret aversion, and career risk."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How does herding create trends?",
+  "back": "Buying because others are buying lifts prices, which attracts more buyers. The move feeds on itself until it is overextended."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "What is a bubble?",
+  "back": "A rise in price well beyond what underlying value can explain, driven by enthusiasm and the expectation that prices will keep rising."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why do crashes tend to be faster than the preceding climb?",
+  "back": "Fear and loss aversion act more quickly than greed, and herding makes everyone try to leave at once."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Which biases combine on the way up in a bubble and on the way down?",
+  "back": "Overconfidence and confirmation bias on the way up. Anchoring and the disposition effect on the way down. Herding works in both directions."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "How does the disposition effect relate to chart features?",
+  "back": "Holders waiting to get out even add supply at prior highs, which helps explain why a breakout above long standing resistance needs fresh buyers."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Why might technical analysis have value, according to behavioral finance?",
+  "back": "Investors respond to events in similar, repeating ways, so the patterns that result tend to recur and can be studied on charts."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "A stock falls from 50 to 40, a loss of 20 percent. What percentage gain is needed to return to 50, and what does it show?",
+  "back": "10 divided by 40 equals 25 percent. A loss needs a larger percentage gain to recover, which is part of why holding losers is costly."
+ },
+ {
+  "domain": "theory_and_history",
+  "front": "Does behavioral finance prove that every chart pattern works?",
+  "back": "No. It gives a reason patterns may recur, but technicians suffer the same biases, such as confirmation bias, which is why rules and testing matter."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are the four basic price points recorded for each period on a chart?",
+  "back": "Open, high, low, and close. The open is the first price traded, the high is the highest, the low is the lowest, and the close is the last price traded."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Define the range of a bar or candlestick.",
+  "back": "Range is the high minus the low for the period. It measures how far price traveled, regardless of direction."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A futures contract opens at 82.40, reaches 85.10, falls to 81.70, and closes at 84.60. What is the range?",
+  "back": "Range = 85.10 minus 81.70 = 3.40. Check: 81.70 plus 3.40 equals 85.10. The open and close do not enter the calculation."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Define open interest and say how it is displayed on a futures chart.",
+  "back": "Open interest is the number of contracts still open, not yet closed out or delivered, counted once per long-short pair. It is usually drawn as a line below the price chart."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Name two advantages of reviewing prices in a chart instead of a table of numbers.",
+  "back": "A chart compresses many numbers into one image, so trend direction, swing size, support and resistance, and volume behavior are visible at a glance. The same four price points apply to any market."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What price does a standard line chart plot, and what does it leave out?",
+  "back": "It connects one price per period, almost always the close. It leaves out the open, high, and low, so a wild intraperiod swing is invisible."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On an OHLC bar, what do the top and bottom of the vertical line mark?",
+  "back": "The top marks the high and the bottom marks the low, so the length of the bar equals the range."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On a bar chart, which side of the bar shows the open and which shows the close?",
+  "back": "A tick to the left marks the open and a tick to the right marks the close."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "An ETF bar has its close tick well below its open tick and near the low. What does this tell you?",
+  "back": "Sellers dominated the period and the close was weak, near the low of the range. It is a bearish bar."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does the real body of a candlestick measure?",
+  "back": "The distance from the open to the close. It shows who won the period and by how much."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are the shadows (wicks) of a candlestick?",
+  "back": "The thin lines above and below the real body. The upper shadow reaches to the high and the lower shadow reaches to the low."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the usual Western convention for coloring a candlestick body?",
+  "back": "Hollow or white when the close is above the open, filled or black when the close is below the open. Many platforms use green and red instead, so check the legend."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Does a candlestick chart contain more data than a bar chart of the same period?",
+  "back": "No. Both show open, high, low, and close. The candlestick only presents the open-to-close relationship more visibly."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the data interval of a chart?",
+  "back": "The length of time each bar or point represents, such as one minute, one day, or one week. A longer interval smooths noise and a shorter one shows more detail."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A weekly bar for a currency pair is built from daily data. What are its four prices?",
+  "back": "Open is the first price of the week, high and low are the extremes of the week, and close is the last price of the week."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does it mean to say that price charts are fractal?",
+  "back": "The same kinds of patterns and swings appear at different time scales, such as five-minute, daily, and monthly charts. Patterns learned on one interval can be applied to others."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which two variables are plotted on the axes of a conventional price chart?",
+  "back": "Time on the horizontal (x) axis and price on the vertical (y) axis."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is plotted on the x axis of a volume chart instead of time?",
+  "back": "Accumulated volume. Each bar forms after a fixed number of shares or contracts has traded, however long that takes."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is a range bar constructed?",
+  "back": "Each bar covers a fixed price range, say 2 points, and is completed only when price has moved that full amount from low to high. Time does not set the bar length, so small moves are filtered out."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What do the Xs and Os mean on a point-and-figure chart?",
+  "back": "An X column records rising prices and an O column records falling prices. Each symbol fills one box of a fixed price size."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Define box size and reversal on a point-and-figure chart.",
+  "back": "Box size is the price amount each X or O represents. Reversal is the number of boxes price must move against the current column to start a new column, commonly three."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What three things are needed to build a point-and-figure chart?",
+  "back": "A price series, a box size, and a reversal size. No time axis or volume data is needed."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A P&F chart uses 1-point boxes and a 3-box reversal. The X column tops at 55. At what price is the reversal confirmed, and in which box does the O column begin?",
+  "back": "Price must fall to 52, which is 55 minus 3. The new O column starts in the 54 box (one box below the top X) and fills 54, 53, and 52."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does raising the box size affect a point-and-figure chart?",
+  "back": "It filters out more small moves, so the chart becomes shorter and simpler and shows only larger swings. A smaller box records more detail."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does a point-and-figure chart differ from a bar chart?",
+  "back": "It has no time axis and no volume. A column forms only when price moves enough, so quiet periods are compressed."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On an arithmetic scale, what do equal distances on the y axis represent?",
+  "back": "Equal price amounts in points. The step from 10 to 20 looks the same as the step from 90 to 100."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On a logarithmic scale, what do equal distances on the y axis represent?",
+  "back": "Equal percentage changes. The step from 10 to 20 (100 percent) looks the same as 20 to 40 (100 percent)."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A stock rises from 50 to 100, then from 100 to 150. How do the two moves compare in percent and on a log scale?",
+  "back": "The first is a 100 percent gain and the second a 50 percent gain. On a log scale the first move looks taller, about 1.7 times the second."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "When does a technician prefer a logarithmic scale?",
+  "back": "When price changes a great deal, when the chart covers a very long span, or when comparing percentage moves. A steady percentage growth rate plots as a straight line."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Define volume and describe the typical way it is displayed.",
+  "back": "Volume is the number of shares or contracts traded in a period. It is usually shown as a histogram of vertical bars under the price chart, one per price bar."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What defines an uptrend?",
+  "back": "An uptrend is a series of higher highs and higher lows. Each rally exceeds the prior peak and each pullback holds above the prior trough."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What defines a downtrend?",
+  "back": "A downtrend is a series of lower highs and lower lows. Each decline falls below the prior trough and each bounce fails below the prior peak."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Name the three primary movements of price in the Dow Theory.",
+  "back": "The primary movement (the main trend, months to years), the secondary movement (an intermediate correction against it), and the minor movement (short-term noise lasting hours to weeks)."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A currency pair has climbed for two years but drops for six weeks before rising again. Which Dow movement is the six-week drop?",
+  "back": "It is a secondary movement, a correction that runs against the primary uptrend."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does it mean to say price is fractal?",
+  "back": "The same kinds of trends and patterns appear at every time scale, so a five-minute chart and a monthly chart look structurally similar and the same tools apply to both."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A bitcoin chart shows a daily downtrend inside a weekly uptrend. What does this illustrate?",
+  "back": "It illustrates that trends exist on several time frames at once, so a technician must always state which time frame a trend belongs to."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "State the principle of polarity.",
+  "back": "A broken support level tends to become resistance, and a broken resistance level tends to become support."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why does broken support often turn into resistance?",
+  "back": "Buyers who bought near support and then suffered losses tend to sell when price returns to their entry point, hoping to break even. That selling creates a ceiling."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are Wyckoff's four market structure phases, in order?",
+  "back": "Accumulation, markup (advancing), distribution, and markdown (declining). The cycle then begins again with accumulation."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What happens in the accumulation phase?",
+  "back": "After a decline, price moves sideways in a base while informed buyers quietly build positions and selling pressure fades."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What happens in the distribution phase?",
+  "back": "After an advance, price moves sideways in a top while informed owners sell their holdings to late buyers."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which Wyckoff phase follows distribution?",
+  "back": "Markdown, the declining phase in which sellers dominate and price trends downward."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Match each of the four primary trades to its phase.",
+  "back": "Buy in accumulation or early markup, sell longs in distribution, sell short early in markdown, and cover shorts in accumulation."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Define a retracement.",
+  "back": "A temporary move against the prevailing trend that reverses part of the prior move. It is a dip in an uptrend and a bounce in a downtrend."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A stock rises from 50 to 70, then falls to 62. What percent of the rise has it retraced?",
+  "back": "The rise is 20 points and the decline is 8 points, so the retracement is 8 divided by 20, or 40 percent."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a throwback?",
+  "back": "A retracement after an upward breakout in which price falls back to test the broken resistance level from above. By polarity, that level now acts as support."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a pullback in breakout terminology?",
+  "back": "A retracement after a downward breakout in which price rallies back to test the broken support level from below. That level now acts as resistance."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a valid, tested trendline require?",
+  "back": "At least two points to draw it, plus a third touch that holds. More touches and a longer duration make a trendline more significant."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is an uptrend line drawn?",
+  "back": "It connects two or more rising lows and lies below price. A downtrend line connects two or more falling highs and lies above price."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a price channel?",
+  "back": "A trendline plus a parallel line on the other side of price. Price moves between the two lines, and a break out of the channel warns that the trend is changing."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does the 3% rule filter a breakout?",
+  "back": "Price must close beyond the level by 3 percent to count as a valid breakout. If resistance is 50, price must close above 51.50."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does the ATR rule filter a breakout, and what would it require if the average true range is 1.20 and the filter is 1.5 times ATR?",
+  "back": "Price must move beyond the level by a multiple of the average true range. Here the multiple is 1.5 times 1.20, so price must exceed the level by 1.80."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the tradeoff of using a stricter breakout filter?",
+  "back": "A stricter filter gives fewer false signals but delays entry, so the position is usually entered at a worse price."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "The last five closes are 20, 22, 21, 23, and 24. What is the five-day simple moving average?",
+  "back": "The sum is 110 and 110 divided by 5 is 22."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How much weight does a 9-period exponential moving average put on the newest price?",
+  "back": "The smoothing constant is 2 divided by (9 + 1), or 0.20, so the newest price has a 20 percent weight."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A 9-period EMA was 50 and the new close is 55. What is the new EMA?",
+  "back": "New EMA is (55 times 0.20) plus (50 times 0.80), which is 11 + 40 = 51."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a single moving average signal when price crosses above a rising average?",
+  "back": "It gives a buy signal and indicates an uptrend. A cross from above to below gives a sell signal."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A 20-bar SMA crosses above a 50-bar SMA. What does this signal?",
+  "back": "It is a buy signal, because recent prices are rising faster than the longer-term history."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why do moving average systems perform poorly in sideways markets?",
+  "back": "Price repeatedly crosses the averages without a lasting trend, producing many small losses called whipsaws."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A buy is made at 40 with a stop at 38 and a target at 46. What is the reward-to-risk ratio?",
+  "back": "Risk is 2 points and reward is 6 points, so the ratio is 6 divided by 2, or 3 to 1."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "With a 100,000 account, a 1 percent risk limit, and a stop 2 points away, how many shares can be bought?",
+  "back": "The risk limit is 1,000, and 1,000 divided by 2 is 500 shares."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is support?",
+  "back": "A price area where buying interest is strong enough to stop a decline, at least temporarily. It is usually a zone rather than an exact price."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Name four common sources of support and resistance.",
+  "back": "Prior highs and lows, edges of earlier trading ranges, trendlines and moving averages, and round numbers."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why do round numbers often act as support or resistance?",
+  "back": "People prefer simple numbers when placing orders, so buy and sell orders cluster at levels like 50 or 100."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the volume rule for a healthy uptrend?",
+  "back": "Volume expands on rallies and shrinks on pullbacks. Rising prices on shrinking volume warn that the trend lacks participation."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does volume describe liquidity?",
+  "back": "High volume usually means tight bid-ask spreads and easy trading with little price impact. Low volume means a thin market where a single order can move the price."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a selling climax?",
+  "back": "A spike in volume at the end of a decline as panicked sellers dump shares. It may signal exhaustion, but it is not a reversal until price stops falling."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A stock trades 100 shares at 10, 300 at 11, and 100 at 12. What is the VWAP?",
+  "back": "Total dollar value is 1,000 + 3,300 + 1,200 = 5,500 and total volume is 500, so VWAP is 5,500 divided by 500, or 11."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Distinguish open interest from volume.",
+  "back": "Volume counts contracts traded during a period. Open interest counts contracts still open at the end of the day, and exists only for futures and options."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "When does open interest rise?",
+  "back": "When a new buyer and a new seller both open positions. It falls when both close, and stays unchanged when one opens and the other closes."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Futures prices are rising while open interest is falling. What does this suggest?",
+  "back": "The rise is driven mostly by short covering rather than new buying, so the uptrend is suspect."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Prices are falling and open interest is rising. What does this signal?",
+  "back": "New money is entering on the short side, which confirms the downtrend."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "An index makes a new high while its advance-decline line falls. What does this divergence imply?",
+  "back": "Fewer stocks are carrying the advance, so the rally is narrow and weakening."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On a day with 1,800 advancing and 1,200 declining issues, the cumulative advance-decline line was 5,000 the day before. What is it now?",
+  "back": "The net is +600, so the line rises to 5,600."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is the Arms Index (TRIN) calculated, and what does 1.0 mean?",
+  "back": "TRIN is (advancing issues divided by declining issues) divided by (up volume divided by down volume). A reading of 1.0 means balance between buying and selling."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does it mean to say chart patterns are fractal?",
+  "back": "The same shapes appear on short and long time frames, such as a five-minute chart and a monthly chart."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What must exist before a pattern can be called a reversal pattern?",
+  "back": "A prior trend. A head and shoulders top after a sideways market has nothing to reverse."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are the four parts of a head and shoulders top?",
+  "back": "The left shoulder, the head (the highest peak), the right shoulder (lower than the head), and the neckline drawn through the lows between them."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What confirms a head and shoulders top?",
+  "back": "A close below the neckline, usually with volume rising again on the break."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A head and shoulders top has a head at 60 and a neckline at 50. The neckline breaks at 50. What is the target?",
+  "back": "The height is 60 minus 50, which is 10. Projected down from the break, the target is 50 minus 10, which equals 40."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does lighter volume on the right shoulder suggest?",
+  "back": "Buying demand is weakening, which supports the bearish reading of the pattern."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a break above the neckline need in an inverse head and shoulders?",
+  "back": "Noticeably rising volume on the breakout. The target is the head to neckline distance projected upward."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a double top look like and what confirms it?",
+  "back": "Two peaks at about the same price, shaped like an M. It is confirmed when price falls below the low of the trough between the peaks."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Double top peaks are at 80 and the trough is at 70. Price breaks below 70. What is the target?",
+  "back": "The height is 80 minus 70, which is 10. The target is 70 minus 10, which equals 60."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What confirms a double bottom?",
+  "back": "A rise above the high point between the two troughs, ideally with rising volume."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How are rounding tops and bottoms different from a head and shoulders?",
+  "back": "They are slow, curved turns with no sharp breakout point and no simple measuring formula."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How do volume and price behave inside a consolidation?",
+  "back": "Price moves in a narrow range, both sides are unsure, and volume usually shrinks until a breakout."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a symmetrical triangle and how is it usually resolved?",
+  "back": "Converging trendlines with the upper line falling and the lower line rising. It usually continues the prior trend, but wait for the breakout."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which way does an ascending triangle usually break and why?",
+  "back": "Usually up. The flat top is a firm ceiling, but buyers pay higher prices on each dip."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which way does a descending triangle usually break?",
+  "back": "Usually down. Sellers accept lower prices on each rally while buyers defend a flat floor."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a rectangle pattern and what is its target?",
+  "back": "A trading range between flat support and flat resistance. The target is the rectangle's height projected from the breakout."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What do box size and reversal size control on a point-and-figure chart?",
+  "back": "Box size is the price value of each X or O; reversal size is the number of boxes against the column needed to start a new one. Larger values give a smoother chart with fewer signals."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does a flag differ from a pennant?",
+  "back": "A flag is a small parallel channel sloping against the trend. A pennant is a small symmetrical triangle with converging lines."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A stock rises from 40 to 50 on heavy volume, forms a flag, and breaks out at 48. What is the target?",
+  "back": "The flagpole is 50 minus 40, which is 10. Adding it to the breakout gives 48 plus 10, which equals 58."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a rising wedge usually signal?",
+  "back": "Weakness, a bearish bias, because each rally gains less ground even though the lines slope up."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a falling wedge usually signal?",
+  "back": "A bullish bias, because each decline loses ground even though the lines slope down."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Describe a cup and handle.",
+  "back": "A rounded U-shaped decline and recovery followed by a short pullback (the handle). It is usually a bullish continuation, with volume rising on the breakout."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a gap on a daily bar chart?",
+  "back": "An empty space with no trading: today's low is above yesterday's high (up gap), or today's high is below yesterday's low (down gap)."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What usually causes gaps?",
+  "back": "A sudden change in the balance of buyers and sellers between sessions, often from news, earnings, or order imbalances."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a common gap and how does it usually behave?",
+  "back": "A gap inside a trading range with little meaning. Common gaps are often filled within a few days."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which gap marks the start of a move and what usually accompanies it?",
+  "back": "The breakaway gap, which occurs as price leaves a pattern or range, often on heavy volume."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Where does a runaway (measuring) gap occur?",
+  "back": "In the middle of a fast, strong trend, showing continued interest in the trend."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is an exhaustion gap and what confirms it?",
+  "back": "A gap near the end of a trend, often on very heavy volume. It is confirmed when price trades back into the gap area."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which four data points make up a candlestick?",
+  "back": "The open, high, low, and close."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are the real body and the shadows of a candle?",
+  "back": "The real body is the rectangle between open and close. The shadows are the thin lines from the body to the high and the low."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the standard candle coloring convention?",
+  "back": "White (hollow or green) means close above open, bullish. Black (filled or red) means close below open, bearish."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a double top breakout on a point-and-figure chart?",
+  "back": "An X column that rises above the top of the previous X column. It is a buy signal showing demand overcoming supply."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the shape of a hammer and where does it appear?",
+  "back": "A small body near the top, a long lower shadow, and little or no upper shadow, after a downtrend. It is bullish."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does a hanging man differ from a hammer?",
+  "back": "Same shape, but it follows an uptrend and is a bearish warning that benefits from confirmation."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a shooting star?",
+  "back": "A small body near the bottom with a long upper shadow after an uptrend. Buyers pushed up but sellers rejected the high. It is bearish."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What defines a bullish engulfing pattern?",
+  "back": "After a downtrend, a small black candle followed by a larger white candle whose real body covers the prior real body."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a harami?",
+  "back": "A large candle followed by a small one whose body sits inside the prior body. It shows fading momentum, a warning rather than a strong signal."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What defines a piercing line?",
+  "back": "After a downtrend, a long black candle then a white candle opening below the prior low and closing above the midpoint of the black body."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What defines dark cloud cover?",
+  "back": "After an uptrend, a long white candle then a black candle opening above the prior high and closing below the midpoint of the white body."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is a morning star built?",
+  "back": "After a downtrend: a long black candle, a small-bodied candle gapping below, then a long white candle closing well into the first body. It is bullish."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How are trendlines drawn on a point-and-figure chart?",
+  "back": "At 45 degrees through box corners: a bullish support line up from a bottom and a bearish resistance line down from a top. A break of the line is a signal."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a doji and what does it signal?",
+  "back": "A candle with the open and close at or near the same price. It signals indecision and needs confirmation."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Compare dragonfly and gravestone dojis.",
+  "back": "A dragonfly has open, high, and close together with a long lower shadow (T shape, can be bullish after a decline). A gravestone has open, low, and close together with a long upper shadow (can be bearish after an advance)."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a marubozu?",
+  "back": "A candle with no shadows. White opens at the low and closes at the high; black opens at the high and closes at the low."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On a point-and-figure chart with box size 1 and a 3-box reversal, an X column tops at 50. How far must price fall to start a column of Os?",
+  "back": "To 47, since 50 minus 3 equals 47. Smaller declines are ignored."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why does every moving average lag price?",
+  "back": "It averages past closes, so it can only turn after price has already turned. A longer period means a smoother line and more lag."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is a 3-period linearly weighted average of closes 10, 11 and 12 (oldest to newest) calculated?",
+  "back": "Weight the newest close by 3, the middle by 2 and the oldest by 1, then divide by 6: (10 + 22 + 36) / 6 = 11.33."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What smoothing multiplier does a 10-period EMA use?",
+  "back": "2 / (N + 1) = 2 / 11 = 0.1818. New EMA = prior EMA + 0.1818 x (close minus prior EMA)."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A 5-bar SMA is 12. The oldest close in the window was 10 and the new close is 15. What is the new SMA?",
+  "back": "The sum rises by 5, so the average rises by 5 / 5 = 1, giving 13."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a 20-bar average crossing above a 50-bar average signal?",
+  "back": "A bullish signal: the shorter, faster average has moved above the longer one. In sideways markets this rule produces whipsaws."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What smoothing multiplier does Wilder use for a 14-period indicator?",
+  "back": "1 / 14, which equals an EMA of 27 periods. His method is an exponential average that reacts more slowly than a standard 14-period EMA."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is a 5 percent moving average envelope built around a 20-period SMA of 100?",
+  "back": "Lines are placed at a fixed percentage above and below the average: 105 for the upper line and 95 for the lower line."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why do short moving averages give more false signals than long ones?",
+  "back": "They follow every small swing in price, so they cross price and each other more often. The cost of less lag is more noise."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the difference between a leading and a lagging indicator?",
+  "back": "A lagging indicator, such as a moving average, confirms a move already under way. A leading indicator, usually a momentum oscillator, tries to warn before price turns."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is the default RSI period and what are its standard overbought and oversold levels?",
+  "back": "14 periods, with readings above 70 called overbought and below 30 called oversold. The scale runs from 0 to 100."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "An RSI has an average gain of 1.2 and an average loss of 0.4. What is its value?",
+  "back": "RS = 1.2 / 0.4 = 3, so RSI = 100 minus 100 / (1 + 3) = 75."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is raw stochastic %K calculated?",
+  "back": "(Close minus lowest low) / (highest high minus lowest low) x 100. With close 48, high 50 and low 40, %K = 8 / 10 x 100 = 80."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are the default MACD settings and what does each line represent?",
+  "back": "12, 26, 9. The MACD line is the 12-period EMA minus the 26-period EMA; the signal line is a 9-period EMA of the MACD line."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "The 12-period EMA is 105.2, the 26-period EMA is 103.7 and the signal line is 1.2. What is the MACD histogram?",
+  "back": "The MACD line is 105.2 minus 103.7 = 1.5. The histogram is 1.5 minus 1.2 = 0.3."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does bearish divergence between price and an oscillator look like?",
+  "back": "Price makes a higher high while the oscillator makes a lower high. It warns that momentum is fading but does not time the turn."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A futures contract closes at 55 and closed at 50 ten bars ago. What is its 10-period rate of change?",
+  "back": "(55 minus 50) / 50 = 10 percent. ROC oscillates around zero, and a positive value means price is above its level N bars ago."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On-Balance Volume stands at 10,000. The next day closes lower on 1,500 shares. What is OBV now?",
+  "back": "10,000 minus 1,500 = 8,500. OBV adds volume on up closes, subtracts it on down closes and adds nothing when the close is unchanged."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How does the Accumulation/Distribution line differ from On-Balance Volume?",
+  "back": "A/D weights volume by where the close sits within the day's range, so it can rise on a down day. OBV uses only whether the close is above or below the prior close."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A bar has a high of 20, a low of 10 and a close of 18, on volume of 1,000. How much is added to the A/D line?",
+  "back": "Close location value = ((18 minus 10) minus (20 minus 18)) / 10 = 0.6, so 0.6 x 1,000 = 600 is added."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why can an oscillator remain overbought for a long time?",
+  "back": "In a strong trend, momentum stays high. Overbought means price has risen quickly, not that a sale is due."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What three lines make up the Directional Movement Index system?",
+  "back": "+DI measures upward movement, minus DI measures downward movement, and ADX measures trend strength. Wilder's default period is 14."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a rising ADX tell you?",
+  "back": "The trend, up or down, is strengthening. ADX gives no direction; direction comes from which DI line is higher."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "An index shows +DI at 28, minus DI at 14 and ADX at 30. What is the reading?",
+  "back": "Direction is up because +DI is above minus DI, and the trend is strong because ADX is above the conventional 25."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does an ADX below about 20 suggest, and which tools suit that condition?",
+  "back": "A weak or absent trend, so the market is likely ranging. Oscillators generally suit such conditions better than moving average crossovers."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which three lines make up a default Bollinger Band study?",
+  "back": "A 20-period simple moving average in the middle, with an upper band and a lower band each 2 standard deviations away from it."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A 20-period SMA is 50 and the standard deviation is 2. Where are the bands?",
+  "back": "Upper band 50 + 2 x 2 = 54 and lower band 50 minus 4 = 46."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is Bollinger bandwidth calculated, and what is it for the bands 54, 50 and 46?",
+  "back": "(Upper band minus lower band) / middle band. Here (54 minus 46) / 50 = 16 percent. It tracks volatility."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a Bollinger squeeze signal?",
+  "back": "Unusually low volatility, shown by narrow bands, which tends to be followed by high volatility. It does not say whether price will break up or down."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is a band walk?",
+  "back": "In a strong trend, price rides along the upper band (uptrend) or lower band (downtrend). Touching a band is then a sign of strength, not an automatic reversal."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why do the bands widen and narrow?",
+  "back": "They are based on standard deviation, a measure of how widely closes scatter around their average. Rising volatility widens them; falling volatility narrows them."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is contrary opinion in technical analysis?",
+  "back": "Reading extreme one-sided sentiment as a warning that the crowd may be wrong. Extreme optimism appears near tops and extreme pessimism near bottoms."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is the VIX used as a sentiment gauge?",
+  "back": "A high VIX reading shows fear and heavy demand for index options; a very low reading shows complacency. Spikes often occur near market lows, but a spike alone is not a timing signal."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "On a given day 700,000 puts and 500,000 calls trade. What is the put/call ratio and what does it suggest?",
+  "back": "700,000 / 500,000 = 1.4. A high ratio signals heavy put buying and fear, which a contrarian reads as a bullish sign."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does a very low put/call ratio suggest to a contrarian?",
+  "back": "Excessive call buying and optimism, which is a bearish warning when it reaches an extreme."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Who publishes the Commitments of Traders report, and which groups does it track?",
+  "back": "The CFTC publishes it weekly for futures markets. It tracks commercial hedgers, large speculators and small speculators."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which COT group is usually treated as the crowd that tends to be wrong at extremes?",
+  "back": "The small speculators, also called nonreportable traders. Commercial hedgers are usually viewed as the informed group."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "How is insider activity used as a sentiment signal?",
+  "back": "Clusters of insider buying are viewed as bullish. Insider selling is a weaker signal because insiders sell for many personal reasons."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Why can high short interest be both bearish and bullish?",
+  "back": "It shows bearish sentiment, but shorts must eventually buy shares back, which stores potential buying demand and can fuel a short squeeze."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does low cash held by mutual funds imply?",
+  "back": "Funds are fully invested with little buying power left, which is a cautionary reading. High cash means large potential buying power and is a bullish setup."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What are the period, amplitude and phase of a cycle?",
+  "back": "Period is the time from one trough to the next, amplitude is the height from the midpoint to the peak or trough, and phase is a cycle's position within its period."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What is Hurst's principle of summation?",
+  "back": "The price we see is the sum of many cycles of different lengths added together."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What do harmonicity and synchronicity mean in Hurst's cycle work?",
+  "back": "Harmonicity: neighboring cycle lengths are related by small whole numbers, most often 2. Synchronicity: troughs of cycles of different lengths tend to line up."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "What does right translation of a cycle mean and what does it suggest?",
+  "back": "The peak comes after the cycle's midpoint, so the rise lasts longer than the decline. It is typical of bull markets."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "A 40-day cycle peaks on day 12. Is that a left or a right translation?",
+  "back": "Left translation, because day 12 is before the midpoint at day 20. It is typical of weakening or bear market conditions."
+ },
+ {
+  "domain": "classical_techniques",
+  "front": "Which economic cycle is about 45 to 60 years long and which is about 7 to 11 years?",
+  "back": "The Kondratieff wave is about 45 to 60 years. The Juglar investment cycle is about 7 to 11 years."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the difference between descriptive and inferential statistics?",
+  "back": "Descriptive statistics summarize data you already have, such as an average close. Inferential statistics use a sample to draw conclusions about a larger population, and those conclusions carry uncertainty."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the difference between a population and a sample?",
+  "back": "A population is the complete set of items of interest, and a sample is a part of it used to learn about the whole. Population characteristics are parameters, and sample characteristics are statistics."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What are the two main types of data?",
+  "back": "Quantitative data are measured numbers such as prices and returns. Qualitative (categorical) data place items in groups such as uptrend, downtrend, or sideways."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How is the arithmetic mean calculated?",
+  "back": "Add all the values and divide by the number of values. For closes of 10, 12, 11, 15, and 12, the sum is 60 and the mean is 12."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Which measure of central tendency is best when a data set contains extreme outliers?",
+  "back": "The median, because it is the middle value of the sorted data and moves little when one extreme value is added. The mean is pulled toward outliers."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How do you find the median of a data set with an even number of values?",
+  "back": "Sort the data and take the mean of the two middle values. For 10, 11, 12, 12, 15, 40 the middle values are 12 and 12, so the median is 12."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a normal distribution?",
+  "back": "A symmetric, bell shaped distribution described completely by its mean and standard deviation. Its mean, median, and mode are equal, and its tails never touch the axis."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does it signal when the mean is well above the median?",
+  "back": "The data are likely positively skewed, with a few large values stretching the right tail and pulling the mean up."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why is the geometric mean the right average for investment returns?",
+  "back": "It measures the compound growth rate actually earned over several periods. The arithmetic mean overstates it whenever returns vary."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How is a geometric mean return calculated?",
+  "back": "Add 1 to each periodic return, multiply the results, take the nth root for n periods, and subtract 1."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A fund gains 50% in year one and loses 50% in year two. What is the geometric mean return per year?",
+  "back": "The square root of 1.50 times 0.50 is the square root of 0.75, or 0.866, so the geometric mean is about negative 13.4% per year. The arithmetic mean of 0% hides a real loss of 25%."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How does the geometric mean compare with the arithmetic mean?",
+  "back": "The geometric mean is always less than or equal to the arithmetic mean. They are equal only when every return is identical, and the gap widens as returns become more volatile."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What do measures of dispersion describe?",
+  "back": "How spread out the values in a data set are around the center. In technical analysis, dispersion is a measure of volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What are the steps to calculate a standard deviation?",
+  "back": "Find the mean, subtract it from each value, square each deviation, add the squares, divide by n (population) or n minus 1 (sample) to get the variance, then take the square root."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the relationship between variance and standard deviation?",
+  "back": "Standard deviation is the square root of variance. It returns the spread to the original units, such as dollars or percent."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why does a sample standard deviation divide by n minus 1?",
+  "back": "A sample tends to understate the spread of the full population, so dividing by n minus 1 corrects for that. A population calculation divides by n."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does a kurtosis above 3 tell you about a return distribution?",
+  "back": "The distribution is leptokurtic, with a higher peak and fatter tails than the normal curve. Extreme moves occur more often than a normal distribution implies."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does a z-score measure, and what is its formula?",
+  "back": "It states how many standard deviations a value is from the mean: z equals the value minus the mean, divided by the standard deviation."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "The mean is 50 and the standard deviation is 4. What is the z-score of a value of 58?",
+  "back": "Z equals 58 minus 50, divided by 4, which is positive 2.0. The value is two standard deviations above the mean."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How does the IQR rule identify outliers?",
+  "back": "Compute IQR as Q3 minus Q1. A value is an outlier if it is below Q1 minus 1.5 times the IQR or above Q3 plus 1.5 times the IQR."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "With Q1 of 15 and Q3 of 19, which values are outliers under the IQR rule?",
+  "back": "The IQR is 4 and 1.5 times 4 is 6, so the fences are 9 and 25. Any value below 9 or above 25 is an outlier."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What three features of a data set does a scatterplot describe?",
+  "back": "Direction (upward or downward), form (straight line, curve, or none), and strength (how tightly the points cluster)."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does Pearson's correlation coefficient r measure, and what is its range?",
+  "back": "It measures the strength and direction of a straight line relationship between two variables. It ranges from negative 1 to positive 1."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does an r near zero tell you?",
+  "back": "There is little or no straight line relationship between the two variables. A curved relationship could still exist."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Does a high correlation between two markets prove one causes the other?",
+  "back": "No. Correlation shows only that two series move together, which may come from a third factor or coincidence. It never establishes causation."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "If r equals negative 0.8, what is the coefficient of determination?",
+  "back": "R squared is 0.64, so 64% of the variation is explained by the linear relationship. Squaring removes the negative sign, so direction is lost."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the linear regression equation, and what do its terms mean?",
+  "back": "y equals a plus bx, where y is the dependent variable, x the independent variable, b the slope, and a the intercept. The line is fitted by least squares."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does the law of large numbers say?",
+  "back": "As the number of trials grows, the observed average moves closer to the true expected value. A pattern tested on only a few cases tells you little."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does independent and identically distributed (i.i.d.) mean for random variables?",
+  "back": "Each variable is independent of the others, and all share the same probability distribution."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does the Empirical Rule state for a normal distribution?",
+  "back": "About 68% of values fall within 1 standard deviation of the mean, 95% within 2, and 99.7% within 3."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does historical (realized) volatility measure?",
+  "back": "It measures how much an asset's price actually varied over a past period, usually as the standard deviation of its returns. It looks backward and uses only prices that already occurred."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does implied volatility measure, and where does it come from?",
+  "back": "It is the market's expectation of future price variability, backed out of option prices with an option pricing model. It looks forward, and it is not a forecast of direction."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A currency pair's weekly closes have barely moved for two months. What does Bollinger's idea about volatility cycles say may come next?",
+  "back": "Periods of low volatility tend to be followed by periods of high volatility. A quiet, tight range often precedes a larger move, though it does not say which way."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What typically happens to volatility in a strong bear market compared with a steady bull market?",
+  "back": "Volatility tends to be higher and spikes more in declining markets. Steady bull markets usually show lower, calmer volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is volatility skew in equity index options?",
+  "back": "It is the pattern where implied volatility differs across strike prices, with out-of-the-money puts usually carrying higher implied volatility than out-of-the-money calls. It reflects demand for downside protection."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Does high volatility mean a market is falling?",
+  "back": "No. Volatility measures the size of price swings in either direction, not direction. A stock that swings 4% up and 4% down each day is as volatile as one that swings 4% down then 4% up; only the size of swings counts."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the usual behavior of volatility over time, the property called volatility clustering?",
+  "back": "Large price changes tend to be followed by large changes and small changes by small ones. Volatility comes in persistent bursts rather than at random."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why do technicians care about volatility when sizing a trade?",
+  "back": "Higher volatility means wider typical price swings, so stops must sit farther away and position size should be smaller to keep the dollar risk the same. Lower volatility allows tighter stops."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What are the three measures in Wilder's True Range?",
+  "back": "The current high minus the current low, the absolute value of the current high minus the prior close, and the absolute value of the current low minus the prior close. True Range is the greatest of the three."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A futures contract has a prior close of 54, then trades a high of 52 and a low of 48. What is the True Range?",
+  "back": "The three measures are 4 (52 minus 48), 2 (|52 minus 54|), and 6 (|48 minus 54|). The True Range is 6, because a gap down is captured by the prior close."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why did Wilder create True Range instead of using only the high minus low?",
+  "back": "The simple high minus low ignores gaps between sessions. Including the prior close captures volatility that occurs when a price opens above or below the previous close."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is Average True Range (ATR) and what is its default period?",
+  "back": "ATR is a smoothed average of True Range values over a set number of periods, with Wilder's default being 14. It measures the size of price movement, not its direction."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "An ATR(14) was 2.00 yesterday and today's True Range is 3.40. Using Wilder's smoothing, what is today's ATR?",
+  "back": "ATR = (prior ATR x 13 + today's TR) / 14 = (26.00 + 3.40) / 14 = 2.10. The ATR rises only slightly because one day is a small part of 14."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How are Bollinger Bands constructed by default?",
+  "back": "A 20-period simple moving average forms the middle band, and the upper and lower bands sit 2 standard deviations of price above and below it. The bands widen and narrow with volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A stock's 20-period SMA is 50 and the standard deviation of its closes is 2. Where are the default Bollinger Bands?",
+  "back": "Upper band = 50 + (2 x 2) = 54, and lower band = 50 minus (2 x 2) = 46. If volatility doubles, the standard deviation becomes 4 and the bands move to 58 and 42."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does narrowing Bollinger Bands signal?",
+  "back": "It signals falling volatility, meaning prices are clustering near their average. This low-volatility squeeze often comes before a period of expansion, with direction unknown."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Does a close above the upper Bollinger Band by itself mean sell?",
+  "back": "No. A price at the band shows only that it is high relative to recent volatility. In a strong trend, price can ride the upper band for a long time, so the band is not a stand-alone signal."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How do Keltner Channels differ in construction from Bollinger Bands?",
+  "back": "Keltner Channels place bands a multiple of ATR above and below an exponential moving average, so width depends on True Range. Bollinger Bands use a simple moving average and standard deviation of closes."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A Keltner Channel uses a 100 EMA and a multiple of 2 times an ATR of 3. What are the upper and lower channel values?",
+  "back": "The offset is 2 x 3 = 6, so the upper channel is 106 and the lower channel is 94. The channel's width changes only as ATR changes."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Which band tends to respond faster to a sudden price spike, Bollinger Bands or Keltner Channels?",
+  "back": "Bollinger Bands, because standard deviation reacts quickly to a single large outlier close. Keltner Channels, built on smoothed ATR, tend to change width more smoothly."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is implied volatility used for in an option pricing model such as Black-Scholes?",
+  "back": "The model takes the option's market price plus inputs such as stock price, strike, time, and interest rate, and solves for the volatility that makes the model price match the market price. That value is the implied volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What generally causes implied volatility to be elevated?",
+  "back": "Uncertainty about future price moves, such as an approaching earnings report, a market sell-off, or a major event, raises demand for options and so raises their prices. Higher option prices imply higher volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does the VIX measure?",
+  "back": "The VIX measures the market's expected 30-day volatility of the S&P 500 Index, derived from the prices of S&P 500 index options. It is quoted in annualized percentage points."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the usual relationship between the VIX and the S&P 500?",
+  "back": "They tend to move in opposite directions. The VIX typically rises when the S&P 500 falls sharply and drifts lower when the index rises steadily."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why are sharp VIX spikes often associated with market bottoms, and what are rough base values for the VIX?",
+  "back": "Spikes reflect panic and extreme fear, which often occur near capitulation lows, though a spike alone is not a timing tool. Readings in the low teens or below suggest complacency, while readings of 30 or higher suggest fear."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What are the steps of the scientific method as applied to investing?",
+  "back": "Observe and ask a question, state a testable hypothesis, design a test and collect data, analyze the results, then draw a conclusion and report it so others can repeat it."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why does diversification reduce portfolio risk, and when does it fail to?",
+  "back": "Holdings with a correlation below +1 do not move together exactly, so combined variability falls. At a correlation of +1 there is no benefit, and correlations often rise in sharp declines."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is quantitative analysis?",
+  "back": "Describing markets with numbers and testing ideas with data instead of opinion, using rules computed by fixed formulas."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is risk of ruin, and what lowers it?",
+  "back": "The probability of losing so much that trading cannot continue. It falls with a small risk per trade and positive expectancy, and rises with large bets and long losing streaks."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is an investment process?",
+  "back": "A repeatable series of steps from setting objectives and limits, through developing and testing a method, sizing and executing trades, to monitoring and revising. Results feed back into the method."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a trigger rule?",
+  "back": "A rule naming the event that calls for action, such as buying when the 20-day average crosses above the 50-day average."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does a filter rule do?",
+  "back": "It decides whether a trigger may act at all, for example taking crossover buy signals only when the 200-day average is rising. It removes some trades and does not create any."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a value rule?",
+  "back": "A rule that compares price with a measure of worth, such as its own long-run average, and acts when the gap is large, for example buying when price is 10 percent below its 200-day average."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the difference between a signal and a strategy?",
+  "back": "A signal is one output such as a buy or sell. A strategy is the complete plan: signals, filters, position size, exits, stops, and cost handling."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a model in quantitative investing?",
+  "back": "A mathematical description of a relationship used to estimate or forecast something, such as a regression of future return on momentum and volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does a signal test measure?",
+  "back": "The returns that followed a signal over set holding periods, compared with the average return over all periods. It leaves out sizing, stops, and exits."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why should a signal test come before a backtest?",
+  "back": "A backtest mixes entry, exit, stop, and sizing choices, so a good equity curve does not show which piece worked. A signal test isolates whether the entry signal carries information."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A signal averaged a 1.4 percent 20-day return after 200 signals, while all 20-day periods averaged 0.8 percent. What edge did the signal show?",
+  "back": "1.4 - 0.8 = 0.6 percentage points above the unconditional average."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How does survivorship bias distort a backtest?",
+  "back": "The test only contains securities that still exist, so bankrupt or delisted ones are missing and the results look better than real trading would have been."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is look-ahead bias, and what does it signal?",
+  "back": "Using information in a test that was not available at the time of the supposed decision, such as trading at a close that was needed to produce the signal. It means results are unrealistically good."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is overfitting, also called curve fitting?",
+  "back": "Tuning a rule so closely to past data that it captures noise instead of a real pattern. It looks excellent in-sample and fails on new data."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "If 100 parameter combinations are each judged at a 5 percent significance level, how many will look significant by chance?",
+  "back": "About 100 x 0.05 = 5, even if none has real value. This is the danger of data mining."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How does out-of-sample testing guard against overfitting?",
+  "back": "The rule is built on in-sample data, then tested once on a period not used in its design. A rule that only works in-sample is probably fitted to noise."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the purpose of a stop loss?",
+  "back": "To define the loss before a trade begins by closing the position when price moves against it by a preset amount, so emotion does not decide the exit."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How can an ATR be used to place a stop?",
+  "back": "Place the stop a multiple of the Average True Range from the entry. With an entry at $30, ATR of $1.50, and a 2 ATR stop, the stop is at 30 - 3.00 = $27."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "An account of $50,000 risks 1 percent per trade. Entry is $40 and the stop is $38. How many shares?",
+  "back": "Dollars at risk are $500. Risk per share is $2. Shares = 500 / 2 = 250."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How is the reward-to-risk ratio calculated?",
+  "back": "Distance from entry to the profit target divided by distance from entry to the stop. Entry $40, stop $38, target $46 gives 6 / 2 = 3 to 1."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What win rate is needed to break even at a 2 to 1 reward-to-risk ratio, ignoring costs?",
+  "back": "1 / (1 + 2) = 33.3 percent."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A method wins 40 percent of trades at an average of 3R and loses 60 percent at 1R. What is its expectancy?",
+  "back": "(0.40 x 3) - (0.60 x 1) = 1.20 - 0.60 = +0.6R per trade."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What gain is needed to recover from a 20 percent drawdown, and why is recovery asymmetric?",
+  "back": "Going from $100,000 to $80,000 needs 100,000 / 80,000 = 1.25, a 25 percent gain. The gain needed grows faster than the loss, and a 50 percent drawdown needs 100 percent."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is an equity security?",
+  "back": "A share of ownership in a corporation. The holder has a claim on earnings and assets after debts are paid and may receive dividends."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does float mean for a stock?",
+  "back": "Float is the portion of outstanding shares actually available for public trading."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A stock closes at 100 and a 2 for 1 split follows. What is the adjusted earlier close and how is earlier volume adjusted?",
+  "back": "The earlier close becomes 50 (100 divided by 2), and earlier volume is multiplied by 2. Without adjustment the chart shows a false 50 percent crash."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How is market capitalization calculated?",
+  "back": "Share price times shares outstanding. A firm with 40 million shares at 25 dollars has 1,000 million dollars, or 1 billion."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why do analysts group stocks into sectors?",
+  "back": "Stocks in the same sector tend to move together, so sector groupings help compare a stock to its peers and find leading groups."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "In a price-weighted index, which members have the most influence?",
+  "back": "Those with the highest share prices. The Dow Jones Industrial Average is the classic example, and it uses a divisor."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "In a capitalization-weighted index, which members have the most influence?",
+  "back": "Those with the largest market values. The S&P 500 is an example, adjusted for float."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is distinctive about an equal-weighted index?",
+  "back": "Every member carries the same weight, so a small company moves the index as much as a giant one."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Three stocks at 200, 50, and 20 form a price-weighted index with divisor 3. What is the index and the effect of a 10 percent rise in the 20 stock?",
+  "back": "The index is 270 divided by 3, or 90. The 20 stock rising to 22 lifts the index to 272 divided by 3, or 90.67, a gain of only about 0.74 percent."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is survivorship bias?",
+  "back": "The error of studying only securities that still exist, leaving out those that failed or were acquired, which makes past results look better than they were."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What happens to a bond's price when market yields rise?",
+  "back": "The price falls. Price and yield move in opposite directions."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A bond pays a 4 percent coupon on face value 100 and trades at 80. What is its current yield?",
+  "back": "4 divided by 80 equals 5 percent."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the same bond's current yield if its price rises to 125?",
+  "back": "4 divided by 125 equals 3.2 percent."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What do the terms issuer, coupon, and maturity mean for a bond?",
+  "back": "The issuer is who owes the money, the coupon is the stated annual interest as a percent of face value, and maturity is the date the principal is repaid."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How is a Treasury price quoted as 98-16 read?",
+  "back": "98 and 16/32, which equals 98.50, a percent of par."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why is U.S. government debt used as a benchmark for other bonds?",
+  "back": "The market views it as having the lowest credit risk, so other bonds are priced as a spread over a Treasury of similar maturity."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A corporate bond yields 6.2 percent and a same-maturity Treasury yields 4.5 percent. What is the credit spread?",
+  "back": "6.2 minus 4.5 equals 1.7 percentage points, or 170 basis points."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does a widening credit spread usually signal, and what does an inverted yield curve show?",
+  "back": "A widening spread usually signals rising risk aversion. An inverted curve shows short-term yields above long-term yields, which has often preceded slowdowns."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What are the two economic purposes of futures markets?",
+  "back": "Hedgers lock in prices to reduce risk, and speculators take the other side to seek profit while supplying liquidity."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What are the major terms of a futures contract?",
+  "back": "The underlying asset, contract size, expiration month, tick size, quoting unit, and whether it settles by physical delivery or cash."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Define open interest in futures.",
+  "back": "The total number of contracts outstanding that have not been closed or delivered. Each buyer and seller pair counts once."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A trader opens a new long and another trader opens a new short with it. How does open interest change?",
+  "back": "It rises by 1. If both were closing existing positions it would fall by 1, and if one opens while the other closes it is unchanged."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Name the main categories of futures markets.",
+  "back": "Agricultural, energy, metals, and financial contracts such as interest rates, stock indexes, and currencies."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why can a continuous futures chart show a gap that is not a real market move?",
+  "back": "Contracts expire, so the chart joins successive months, and the price difference between the two contracts appears as a gap at the roll."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is an exchange-traded product?",
+  "back": "A security that trades on an exchange like a stock but tracks an index, commodity, or strategy. ETFs and ETNs are examples."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the key difference between an ETF and an ETN?",
+  "back": "An ETF holds the underlying assets. An ETN is an unsecured debt note of the issuing bank, so it carries the issuer's credit risk."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does a leveraged ETP target, and how often does it reset?",
+  "back": "A multiple, such as 2 times or 3 times, of an index's daily return. It resets daily."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "An index falls 10 percent then rises 10 percent. What happens to a 2 times leveraged product?",
+  "back": "The index ends at 0.90 times 1.10 equals 0.99. The product goes 0.80 times 1.20 equals 0.96, a 4 percent loss, which is worse than twice the index loss."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How might ETPs affect market breadth?",
+  "back": "Basket trading can move all member stocks together, so flows into and out of ETPs may influence breadth measures like advancing versus declining issues."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "In the pair EUR/USD at 1.0800, which is the base currency and what does the price mean?",
+  "back": "The euro is the base and the dollar is the quote. One euro costs 1.08 dollars."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a major currency pair?",
+  "back": "A pair containing the U.S. dollar, such as EUR/USD, USD/JPY, or GBP/USD."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a cross pair, and how is a cross rate derived?",
+  "back": "A pair without the dollar, such as EUR/GBP. If EUR/USD is 1.08 and GBP/USD is 1.26, EUR/GBP equals 1.08 divided by 1.26, or 0.8571."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How does the dealer market structure affect currency charts?",
+  "back": "There is no central exchange, so there is no single official price or full volume figure. Charts can differ by data provider."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What substitute for volume do currency technicians often use?",
+  "back": "Tick counts, the number of price changes, since true volume is not available centrally."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is a blockchain?",
+  "back": "A ledger copied across many computers. Transactions are grouped in blocks, each linked to the prior block by a hash."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Why do digital assets exist?",
+  "back": "To transfer value directly between parties without a bank or central intermediary, and in some cases to support programmable contracts."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is on-chain data? Name three types.",
+  "back": "Information read straight from the public blockchain. Examples are active addresses, transaction counts and values, exchange flows, and hash rate."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does hash rate measure?",
+  "back": "The computing power of miners on a proof of work network."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What is the purpose of options markets?",
+  "back": "To let participants hedge risk, generate income, and speculate with limited, known risk for buyers."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Distinguish a call from a put.",
+  "back": "A call gives the right to buy the underlying at the strike price. A put gives the right to sell it."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A call with strike 50 trades with the stock at 56 and a premium of 3.00 per share on a 100 share contract. What does the buyer pay?",
+  "back": "3.00 times 100 equals 300 dollars. The intrinsic value is 56 minus 50 equals 6 per share."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does delta measure, and what are its ranges?",
+  "back": "The change in option price for a one point move in the underlying. Calls range from 0 to 1 and puts from 0 to negative 1."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What do theta and vega measure?",
+  "back": "Theta is the loss in value each day from time decay. Vega is sensitivity to a change in implied volatility."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does implied volatility tell a technician?",
+  "back": "It is the volatility implied by option prices. It measures expected movement in either direction, not direction itself."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Define relative strength.",
+  "back": "The performance of one security compared with another, usually a benchmark, often shown as a ratio line."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A stock rises 4 percent while the market rises 10 percent. What are its absolute and relative trends?",
+  "back": "The absolute trend is up, but the relative trend is down against the benchmark."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "How is a relative strength ratio line built?",
+  "back": "Divide the asset's price by the benchmark's price each period. A rising line means outperformance. Stock 48 over index 2,200 gives 0.0218."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "Name three methods of assessing relative strength.",
+  "back": "Ratio analysis, comparing percentage changes over the same period, and ranking securities by performance."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "What does the beach ball effect suggest?",
+  "back": "Securities with the best relative strength held up in a decline are likely to rise fastest when the market recovers, like a beach ball held under water."
+ },
+ {
+  "domain": "advanced_techniques",
+  "front": "A relative strength line turns up while price is still falling. How can it be read?",
+  "back": "As a leading indicator that price may soon turn up as well."
+ },
+ {
+  "domain": "ethics",
+  "front": "How many components does the CFA Institute Code of Ethics have, and what comes first in priority when a personal benefit conflicts with a client's?",
+  "back": "The Code has six components. Members and candidates place the integrity of the investment profession and the interests of clients above their own personal interests."
+ },
+ {
+  "domain": "ethics",
+  "front": "Which standard covers Knowledge of the Law, and what is the rule when the law and the Code and Standards conflict?",
+  "back": "Knowledge of the Law is Standard I(A). When they conflict, the member follows the stricter of the two."
+ },
+ {
+  "domain": "ethics",
+  "front": "A research analyst quietly softens a negative opinion on a company because it is also a banking client of her firm. Which standard is at stake?",
+  "back": "Standard I(B), Independence and Objectivity. Pressure or inducements must not bend an analyst's professional judgment."
+ },
+ {
+  "domain": "ethics",
+  "front": "A technician publishes another analyst's price target as her own work. Which sub-standard does this break?",
+  "back": "Standard I(C), Misrepresentation. Plagiarism, using someone else's work without credit, is a form of misrepresentation."
+ },
+ {
+  "domain": "ethics",
+  "front": "What two tests must information pass before Standard II(A) bars trading on it?",
+  "back": "It must be material (likely to affect the price or matter to a reasonable investor) and nonpublic (not yet available to the marketplace). Failing either test means the ban does not apply."
+ },
+ {
+  "domain": "ethics",
+  "front": "A trader places a string of small trades in a thinly traded stock only to make volume look busy and attract buyers. Which standard applies?",
+  "back": "Standard II(B), Market Manipulation. Transactions meant to give a false impression of price or activity are barred."
+ },
+ {
+  "domain": "ethics",
+  "front": "Which standard says fair dealing with clients, and does fair dealing mean every client must be treated identically?",
+  "back": "Fair dealing is Standard III(B). It does not require identical treatment, but no client may be unfairly favored, for example by getting a rating change first."
+ },
+ {
+  "domain": "ethics",
+  "front": "What must an advisor learn about a client before recommending an investment under Standard III(C)?",
+  "back": "The client's investment experience, risk and return objectives, and financial constraints. Suitability is judged in the context of the client's total portfolio."
+ },
+ {
+  "domain": "ethics",
+  "front": "A firm's brochure shows only its three best accounts and omits the rest. Which standard is violated?",
+  "back": "Standard III(D), Performance Presentation. Performance information must be fair, accurate, and complete."
+ },
+ {
+  "domain": "ethics",
+  "front": "List the three exceptions that allow disclosure of client information under Standard III(E).",
+  "back": "Disclosure is allowed when the information concerns illegal activity by the client, when the law requires it, or when the client permits it."
+ },
+ {
+  "domain": "ethics",
+  "front": "An employee secretly plans to compete with her current employer and copies the client list before leaving. Which standard is broken?",
+  "back": "Standard IV(A), Loyalty to the employer. A departing member may prepare to leave but must not take client lists or solicit clients while still employed."
+ },
+ {
+  "domain": "ethics",
+  "front": "A manager is offered a personal bonus by one client for strong returns, on top of the firm's fee. What does Standard IV(B) require?",
+  "back": "The manager must get written consent from all parties involved, including the employer. Without it the manager might favor that client."
+ },
+ {
+  "domain": "ethics",
+  "front": "What does Standard V(A) require before a technician makes a recommendation based on a chart pattern?",
+  "back": "Diligence and a reasonable, adequate basis supported by real research, such as a study of the chart, volume, and context, not a rumor or a quick glance."
+ },
+ {
+  "domain": "ethics",
+  "front": "A portfolio manager buys a stock for her own account just before placing a large client order in the same stock. Name the standard and the practice.",
+  "back": "Standard VI(B), Priority of Transactions. The practice is front running, and client and employer trades must come before personal trades."
+ },
+ {
+  "domain": "ethics",
+  "front": "A candidate posts three remembered exam questions on a forum. Which standard applies, and may a CFA candidate describe themselves as CFA certified?",
+  "back": "Standard VII(A), because exam content is confidential. No: a candidate may state candidacy but must not claim to be CFA certified or designated, per Standard VII(B)."
+ }
+]
